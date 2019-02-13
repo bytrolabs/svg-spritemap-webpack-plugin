@@ -28,6 +28,9 @@
         "email": "cas.cornelissen@onefinity.io",
         "url": "https://www.onefinity.io/"
     },
+    "contributors": [
+        "Oliver Paschke <oli.paschke@gmail.com>"
+    ],
     "license": "MIT",
     "files": [
         "lib/",
@@ -43,7 +46,6 @@
     },
     "dependencies": {
         "glob": "^7.1.3",
-        "html4-id": "^1.0.0",
         "joi": "^14.3.0",
         "loader-utils": "^1.1.0",
         "mini-svg-data-uri": "^1.0.2",
